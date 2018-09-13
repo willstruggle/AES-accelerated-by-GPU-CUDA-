@@ -6,7 +6,7 @@ The project is mainly concentrate on the accelerating implements of crypto alogo
  ubuntu 16.04
  Nvidia Titan XP GPU
 
-(but you can still run the code on your own device, the only requirements is you have a Nvidia GPU.)
+(but you can still run the code on your own device, the only requirements is you have a Nvidia GPU)
 
 #Compile and implementation example :
   nvcc -o AES AES.cu
